@@ -33,7 +33,7 @@
         android:id="@+id/button"
         android:layout_width="90dp"
         android:layout_height="49dp"
-        android:text="AUXILIO"
+        android:text="REESTRUCTURATION"
         android:visibility="visible"
         app:layout_anchor="@+id/include"
         app:layout_anchorGravity="center"
